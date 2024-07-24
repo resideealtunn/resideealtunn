@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4f/27/9a/4f279a8e673db1dab0042195da1c0284.jpg)
+![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Reshide Altun</h1>
 <h3 align="center">A passionate full stack developer from Turkiye</h3>
