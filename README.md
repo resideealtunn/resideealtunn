@@ -1,9 +1,7 @@
 ![MasterHead]()
 
-<h1 align="center">Hi 👋, I'm Reshide Altun</h1>
+<h1 align="center">Hi 👋, I'm reshide </h1>
 <h3 align="center">A passionate full stack developer from Turkiye</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resideealtunn&label=Profile%20views&color=0e75b6&style=flat" alt="resideealtunn" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resideealtunn&show_icons=true&locale=en" alt="resideealtunn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resideealtunn&" alt="resideealtunn" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=resideealtunn&label=Profile%20views&color=0e75b6&style=flat" alt="resideealtunn" /> </p>
